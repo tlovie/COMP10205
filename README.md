@@ -1,17 +1,17 @@
 # COMP 10205
 **Data Structures and Algorithms** <br/>
-We will be using the Java programming language in this course and using the Community Edition of IntelliJ from JetBrains.  Please see the Learning Plan for details. 
+We will be using the Java programming language in this course and using the Community Edition of IntelliJ from JetBrains.  Please see the Learning Plan for details.
 
 ### Tom Lovie
 tom.lovie@mohawkcollege.ca
 
 ### Course Information
-|  Section  | Room  | Day  | Time
-|---|---|---|---|
-|  21132.202415  | I227  |  W  | 1600  |
-|  21132.202415  | I110  |  R  | 1600  |
-|  21133.202415  | I202  |  R  | 1400  |
-|  21133.202415  | I227  |  F  | 1300  |
+|  Section  | Room  | Day  | Time | Section
+|---|---|---|---|---|
+|  21132.202415  | I227  |  W  | 1600  | 3 |
+|  21132.202415  | I110  |  R  | 1600  | 3 |
+|  21133.202415  | I202  |  R  | 1400  | 4 |
+|  21133.202415  | I227  |  F  | 1300  | 4 |
 
 # Marking  Breakdown
 - 6 Assignments -> 30% (5% each)
@@ -28,5 +28,22 @@ Use of AI tools such as ChatGPT is strongly discouraged.  Although my personal o
 (See Syllabus on MyCanvas for complete breakdown)
 
 # This course
-- builds on client side course
-- why do we want server side programming anyway?
+### Topics
+- Arrays
+- Searching
+- Sorting
+- Measuring Algorithm Performance
+- Hashing
+- Objects in Collections
+- Linked Lists
+- Stacks and Queues
+- Binary Trees and Heaps
+- Graphs and Dijkstra's Algorithm
+- Data Structure Selection
+Is this course an extension of the Java programming course - not really.  These concepts trancend programming languages and should become programming concepts that stand independent of programming language.
+
+# How To Succeed In Our Class
+- Come to class!
+- Get comfortable with programming environment and experiment with the concepts - test things out on your own.  
+- Complete the weekly exercises
+- Read modules before classes 
