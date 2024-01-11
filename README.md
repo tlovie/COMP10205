@@ -19,6 +19,7 @@ tom.lovie@mohawkcollege.ca
 - 1 Midterm Exam -> 30%
 - 1 Final Exam -> 35% <br/>
 The proctored component of this course will be conducted on paper - no computers will be required or allowed.  You need to achieve a passing grade on the proctored component to allow the assignments to count towards your final grade.
+The assignments must include a statement of authorship.  Failure to include statement of authorship could result in a grade of zero with no opportunity to resubmit.
 
 # Academic Integrity
 [Academic Integrity Policy](https://www.mohawkcollege.ca/about-mohawk/leadership-and-administration/policies-and-procedures/corporate-policies-and-19) </br>
